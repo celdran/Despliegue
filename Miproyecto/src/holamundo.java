@@ -6,7 +6,7 @@ public class holamundo {
 		System.out.print("Hola mundo");
 		
 		
-		System.out.print("Hola mundo2");
+		System.out.print("Version 2 PROYECTO GITHUB");
 	}
 
 }
